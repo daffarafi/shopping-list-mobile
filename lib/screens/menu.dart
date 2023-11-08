@@ -1,13 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shopping_list/widgets/left_drawer.dart';
-import 'package:shopping_list/shoplist_form.dart';
-
-class ShopItem {
-  final String name;
-  final IconData icon;
-
-  ShopItem(this.name, this.icon);
-}
+import 'package:shopping_list/widgets/shop_card.dart';
+import 'package:shopping_list/screens/shoplist_form.dart';
 
 class ShopCard extends StatelessWidget {
   final ShopItem item;
