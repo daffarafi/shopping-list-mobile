@@ -1,4 +1,5 @@
 [![Build status](https://build.appcenter.ms/v0.1/apps/1728f4db-4988-49dd-b116-e0125034edfe/branches/main/badge)](https://appcenter.ms)
+https://install.appcenter.ms/users/daffarafi/apps/shopping_list/distribution_groups/public
 
 # shopping_list
 
